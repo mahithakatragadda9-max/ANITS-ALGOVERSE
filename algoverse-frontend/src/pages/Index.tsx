@@ -19,7 +19,7 @@ const Index: React.FC = () => {
   }, [location.hash]);
 
 const handleChatbotClick = () => {
-  window.location.href = "https://algochat-five.vercel.app/";
+  window.location.href = "http://algo-verse.streamlit.app/";
 };
 
   return (
