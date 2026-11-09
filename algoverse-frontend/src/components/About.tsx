@@ -12,6 +12,23 @@ import WhatsAppImage from "@/components/assets/WhatsApp Image 2025-05-29 at 3.41
 import januImage from "@/components/assets/janu.jpg";
 import pavanImage from "@/components/assets/pavan.jpg";
 import varunImage from "@/components/assets/varun.jpg";
+import HimeshImage from "@/components/assets/Himesh.jpg";
+import jeeteshImage from "@/components/assets/jeetesh.jpg";
+import sushanthImage from "@/components/assets/Sushanth.jpg";
+import GovardhanImage from "@/components/assets/Govardhan.jpg";
+import PraneethImage from "@/components/assets/Praneeth.jpg";
+import NaniImage from "@/components/assets/Nani.jpg";
+import PavaniImage from "@/components/assets/Pavani.jpg";
+import ChaithrikaImage from "@/components/assets/Chaithrika.jpg";
+import TanusreeImage from "@/components/assets/Tanusree.jpg";
+import MahithaImage from "@/components/assets/Mahitha.jpg";
+import ThabsumImage from "@/components/assets/Thabsum.jpg";
+import MoulikaImage from "@/components/assets/Moulika.jpg";
+import RushithaImage from "@/components/assets/Rushitha.jpg";
+import NaveenImage from "@/components/assets/Naveen.jpg";
+import KanishkImage from "@/components/assets/Kanishk.jpg";
+import LakshithaImage from "@/components/assets/Lakshitha.jpg"
+
 import { 
   ArrowLeft,
   GraduationCap,
@@ -141,7 +158,167 @@ const About = () => {
       email: "varunbotcha77@gmail.com",
       skills: ["React", "TYpeScript", "Tailwind"],
       icon: <Star className="w-5 h-5" />
-    }
+    },
+    {
+    name: "DUSI BALA NANDA HIMESH",
+    role: "AI/ML Engineer",
+    image: HimeshImage,
+    github: "https://github.com/himesh-45",
+    linkedin: "https://www.linkedin.com/in/himesh-dusi-3576b8328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    email: "",
+    skills: [],
+    icon: <Code className="w-5 h-5" />
+  },
+  {
+    name: "Rapeti Jeetesh Kumar",
+    role: "Hardware Analyst",
+    image: jeeteshImage,
+    github: "https://github.com/jeetesh-kumar",
+    linkedin: "Jeetesh Kumar Rapeti | LinkedIn",
+    email: "",
+    skills: [],
+    icon: <Code className="w-5 h-5" />
+  },
+  {
+    name: "Kilari Sushanth Sai Krishna",
+    role: "Data Pipeline Engineer",
+    image: sushanthImage,
+    github: "https://github.com/Sushanth-Kilari",
+    linkedin: "https://www.linkedin.com/in/kilari-sushanth-sai-krishna-4b1071340?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+    email: "",
+    skills: [],
+    icon: <Code className="w-5 h-5" />
+  },
+  {
+    name: "Vugiri Govardhan",
+    role: "AI/ML Engineer",
+    image: GovardhanImage,
+    github: "https://github.com/Vardhan-2007",
+    linkedin: "https://www.linkedin.com/in/vugiri-govardhan",
+    email: "",
+    skills: [],
+    icon: <Code className="w-5 h-5" />
+  },
+  {
+    name: "Patnala Praneeth Kumar",
+    role: "AI/ML Engineer",
+    image: PraneethImage,
+    github: "https://github.com/praneethpatnala16-alt",
+    linkedin: "https://www.linkedin.com/in/praneeth-kumar-patnala-07a951342",
+    email: "",
+    skills: [],
+    icon: <Code className="w-5 h-5" />
+  },
+  {
+    name: "Valurouthu Nani",
+    role: "AI/ML Engineer",
+    image:NaniImage,
+    github: "https://github.com/nani-200604",
+    linkedin: "https://www.linkedin.com/in/nani-valurouthu",
+    email: "",
+    skills: [],
+    icon: <Code className="w-5 h-5" />
+  },
+  {
+    name: "Meesala Pavani",
+    role: "LLM/AI Engineer",
+    image: PavaniImage,
+    github: "https://github.com/Pavani295",
+    linkedin: "https://www.linkedin.com/in/pavani-meesala/",
+    email: "",
+    skills: [],
+    icon: <Code className="w-5 h-5" />
+  },
+  {
+    name: "Pasumarthy Chaitrika Kalyani",
+    role: "ML Engineer",
+    image: ChaithrikaImage,
+    github: "https://github.com/chaitrika-kalyani",
+    linkedin: "https://www.linkedin.com/in/pasumarthy-chaitrika-kalyani-26a005373/",
+    email: "",
+    skills: [],
+    icon: <Code className="w-5 h-5" />
+  },
+  {
+    name: "Irri Tanusree",
+    role: "AI/ML Engineer",
+    image: TanusreeImage,
+    github: "https://github.com/tanusreeirri-cyber",
+    linkedin: "www.linkedin.com/in/tanusree-irri",
+    email: "",
+    skills: [],
+    icon: <Code className="w-5 h-5" />
+  },
+  {
+    name: "Katragadda Mahitha",
+    role: "AI/ML Engineer",
+    image: MahithaImage,
+    github: "https://github.com/mahithakatragadda9-max",
+    linkedin: "https://www.linkedin.com/in/katragadda-mahitha-99b3773bb",
+    email: "",
+    skills: [],
+    icon: <Code className="w-5 h-5" />
+  },
+  {
+    name: "Khalida Thabsum",
+    role: "AI and prompt Engineer",
+    image: ThabsumImage,
+    github: "https://github.com/khalida-thabsum",
+    linkedin: "http://www.linkedin.com/in/khalida-thabsum-041a74390",
+    email: "",
+    skills: [],
+    icon: <Code className="w-5 h-5" />
+  },
+  {
+    name: "Bodeddula Chandra Moulika",
+    role: "AI/ML Engineer",
+    image: MoulikaImage,
+    github: "https://github.com/bodeddulachandramoulika24csm-rgb",
+    linkedin: "https://www.linkedin.com/in/bodeddula-chandra-moulika-702026411",
+    email: "",
+    skills: [],
+    icon: <Code className="w-5 h-5" />
+  },
+  {
+    name: "Rushitha Borra",
+    role: "AI/ML Engineer",
+    image: RushithaImage,
+    github: "https://github.com/Rushithaborra/",
+    linkedin: "https://www.linkedin.com/in/rushitha-borra-830027386/",
+    email: "",
+    skills: [],
+    icon: <Code className="w-5 h-5" />
+  },
+  {
+    name: "Seelam Guna Naveen Sidhardha",
+    role: "LLM/AI Engineer",
+    image:NaveenImage,
+    github: "https://github.com/Sidhardha1188",
+    linkedin: "https://www.linkedin.com/in/guna-naveen-sidhardha-seelam-3253783b5/",
+    email: "",
+    skills: [],
+    icon: <Code className="w-5 h-5" />
+  },
+  {
+    name: "Ippili Kanishk",
+    role: "LLM/AI Engineer",
+    image: KanishkImage,
+    github: "https://github.com/codegen2346",
+    linkedin: "https://www.linkedin.com/in/ippili-kanishk-517157312/",
+    email: "",
+    skills: [],
+    icon: <Code className="w-5 h-5" />
+  },
+  {
+    name: "Lekkala Lakshitha",
+    role: "AI/ML Engineer",
+    image: LakshithaImage,
+    github: "https://github.com/lakshithalekkala",
+    linkedin: "https://www.linkedin.com/in/lakshitha-lekkala158/",
+    email: "",
+    skills: [],
+    icon: <Code className="w-5 h-5" />
+  }
   ];
 
   return (
